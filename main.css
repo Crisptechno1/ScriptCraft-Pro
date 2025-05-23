@@ -1,0 +1,13 @@
+/* Tailwind-like base styles */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background: linear-gradient(to bottom right, #f9fafb, #f3f4f6);
+}
+
+/* Add your custom styles below */
+.script-editor {
+  font-family: 'Courier New', monospace;
+  line-height: 1.2;
+}
